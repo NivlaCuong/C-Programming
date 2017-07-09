@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{9B44DC90-1364-4876-A9EA-6F6673B99351}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RightHandRuleRobot.cs">
+    <Files>
+      <File FileName="Program.cs" Line="8" Column="36" />
+      <File FileName="Robot.cs" Line="59" Column="35" />
+      <File FileName="RightHandRuleRobot.cs" Line="18" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 2/ExtraCreditRobot/Program.cs" line="6" column="24" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExtraCreditRobot PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

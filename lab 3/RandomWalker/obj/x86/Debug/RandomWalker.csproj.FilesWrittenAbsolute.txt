@@ -1,0 +1,5 @@
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/lab 3/RandomWalker/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/lab 3/RandomWalker/bin/Debug/RandomWalker.exe.mdb
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/lab 3/RandomWalker/bin/Debug/RandomWalker.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/lab 3/RandomWalker/obj/x86/Debug/RandomWalker.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/lab 3/RandomWalker/obj/x86/Debug/RandomWalker.exe.mdb

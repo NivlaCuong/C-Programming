@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{BD8649B2-309E-4E47-A60E-E5A2900EE302}|Default">
+  <MonoDevelop.Ide.ItemProperties.Person PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Person/Program.cs">
+    <Files>
+      <File FileName="Person/Program.cs" Line="21" Column="4" />
+      <File FileName="Person/Student.cs" Line="8" Column="31" />
+      <File FileName="Person/hourly employee.cs" Line="6" Column="52" />
+      <File FileName="Person/full-time salaried employee.cs" Line="13" Column="14" />
+      <File FileName="Person/Person.cs" Line="7" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

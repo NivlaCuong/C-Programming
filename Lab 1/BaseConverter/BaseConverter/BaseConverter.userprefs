@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1E385E73-8663-40DC-8613-4F4BF58B719C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="BaseConverter.cs" Line="18" Column="5" />
+      <File FileName="Program.cs" Line="16" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BaseConverter PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

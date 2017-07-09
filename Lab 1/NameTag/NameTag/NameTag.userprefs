@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{A792469F-7DA3-4BEF-834E-CF85C4FFD4A7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="nameTagTester.cs">
+    <Files>
+      <File FileName="nameTagTester.cs" Line="13" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NameTag PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

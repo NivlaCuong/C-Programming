@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B9856A93-F412-4E15-B7BD-69B729804B37}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="5" Column="4" />
+      <File FileName="ThermoStat.cs" Line="14" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Thermostat PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

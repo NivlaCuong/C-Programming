@@ -1,0 +1,10 @@
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/lab 3/Operations/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/lab 3/Operations/bin/Debug/Operations.exe.mdb
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/lab 3/Operations/bin/Debug/Operations.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/lab 3/Operations/obj/x86/Debug/Operations.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/lab 3/Operations/obj/x86/Debug/Operations.exe.mdb
+/Users/CalvinNguyen/Desktop/school/CompSci/cis23/c-programming/lab 3/Operations/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/CalvinNguyen/Desktop/school/CompSci/cis23/c-programming/lab 3/Operations/bin/Debug/Operations.exe.mdb
+/Users/CalvinNguyen/Desktop/school/CompSci/cis23/c-programming/lab 3/Operations/bin/Debug/Operations.exe
+/Users/CalvinNguyen/Desktop/school/CompSci/cis23/c-programming/lab 3/Operations/obj/x86/Debug/Operations.exe
+/Users/CalvinNguyen/Desktop/school/CompSci/cis23/c-programming/lab 3/Operations/obj/x86/Debug/Operations.exe.mdb

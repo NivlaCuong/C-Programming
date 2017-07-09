@@ -1,0 +1,5 @@
+/Users/CalvinNguyen/Desktop/school/CompSci/cis23/c-programming/Lab 4/Library/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/CalvinNguyen/Desktop/school/CompSci/cis23/c-programming/Lab 4/Library/bin/Debug/Library.exe.mdb
+/Users/CalvinNguyen/Desktop/school/CompSci/cis23/c-programming/Lab 4/Library/bin/Debug/Library.exe
+/Users/CalvinNguyen/Desktop/school/CompSci/cis23/c-programming/Lab 4/Library/obj/x86/Debug/Library.exe
+/Users/CalvinNguyen/Desktop/school/CompSci/cis23/c-programming/Lab 4/Library/obj/x86/Debug/Library.exe.mdb

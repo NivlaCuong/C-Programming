@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C0452481-3ECA-4748-B9A8-CD4E189A46F8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaxCalculator/Program.cs">
+    <Files>
+      <File FileName="TaxCalculator/Program.cs" Line="26" Column="1" />
+      <File FileName="TaxCalculator/TaxCalculator.cs" Line="24" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TaxCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

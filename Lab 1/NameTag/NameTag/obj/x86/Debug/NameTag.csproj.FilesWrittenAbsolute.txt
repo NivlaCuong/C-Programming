@@ -1,0 +1,10 @@
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/NameTag/NameTag/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/NameTag/NameTag/bin/Debug/NameTag.exe.mdb
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/NameTag/NameTag/bin/Debug/NameTag.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/NameTag/NameTag/obj/x86/Debug/NameTag.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/NameTag/NameTag/obj/x86/Debug/NameTag.exe.mdb
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 1/NameTag/NameTag/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 1/NameTag/NameTag/bin/Debug/NameTag.exe.mdb
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 1/NameTag/NameTag/bin/Debug/NameTag.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 1/NameTag/NameTag/obj/x86/Debug/NameTag.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 1/NameTag/NameTag/obj/x86/Debug/NameTag.exe.mdb

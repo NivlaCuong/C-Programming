@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F226AD82-D2B0-4B42-9B2A-4EB122CB63F0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Histogram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Histogram/Program.cs">
+    <Files>
+      <File FileName="Histogram/Program.cs" Line="36" Column="1" />
+      <File FileName="Histogram/Histogram.cs" Line="18" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

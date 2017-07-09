@@ -1,0 +1,10 @@
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Sphere/Sphere/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Sphere/Sphere/bin/Debug/Sphere.exe.mdb
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Sphere/Sphere/bin/Debug/Sphere.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Sphere/Sphere/obj/x86/Debug/Sphere.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Sphere/Sphere/obj/x86/Debug/Sphere.exe.mdb
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 1/Sphere/Sphere/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 1/Sphere/Sphere/bin/Debug/Sphere.exe.mdb
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 1/Sphere/Sphere/bin/Debug/Sphere.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 1/Sphere/Sphere/obj/x86/Debug/Sphere.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 1/Sphere/Sphere/obj/x86/Debug/Sphere.exe.mdb

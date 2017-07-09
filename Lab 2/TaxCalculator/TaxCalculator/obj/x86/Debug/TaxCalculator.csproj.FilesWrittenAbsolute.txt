@@ -1,0 +1,5 @@
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 2/TaxCalculator/TaxCalculator/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 2/TaxCalculator/TaxCalculator/bin/Debug/TaxCalculator.exe.mdb
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 2/TaxCalculator/TaxCalculator/bin/Debug/TaxCalculator.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 2/TaxCalculator/TaxCalculator/obj/x86/Debug/TaxCalculator.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/Lab 2/TaxCalculator/TaxCalculator/obj/x86/Debug/TaxCalculator.exe.mdb

@@ -1,0 +1,5 @@
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/lab 3/Thermostat/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/lab 3/Thermostat/bin/Debug/Thermostat.exe.mdb
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/lab 3/Thermostat/bin/Debug/Thermostat.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/lab 3/Thermostat/obj/x86/Debug/Thermostat.exe
+/Users/CalvinNguyen/Desktop/CompSci/cis23/c-programming/lab 3/Thermostat/obj/x86/Debug/Thermostat.exe.mdb

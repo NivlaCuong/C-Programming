@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2CF3A9A3-6ABD-4753-8F59-C5A065BF0CAB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fractions.cs">
+    <Files>
+      <File FileName="Program.cs" Line="52" Column="86" />
+      <File FileName="Fractions.cs" Line="125" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Operations PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
